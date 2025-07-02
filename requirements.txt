@@ -1,0 +1,12 @@
+streamlit
+spacy
+pdfplumber
+python-docx
+scikit-learn
+pandas
+matplotlib
+plotly
+transformers
+torch
+nltk
+cryptography
